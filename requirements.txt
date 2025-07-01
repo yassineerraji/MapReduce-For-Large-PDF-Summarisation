@@ -1,0 +1,6 @@
+pandas
+pinecone-client
+adobe.pdfservices-sdk
+python-dotenv
+langchain
+openai
