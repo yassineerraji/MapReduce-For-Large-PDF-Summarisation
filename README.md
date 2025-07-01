@@ -57,7 +57,7 @@ This project demonstrates context-aware parsing and summarization of large PDF d
 
 ## References
 
-- [LangChain Summarization](https://python.langchain.com/docs/use_cases/summarization)
+- [LangChain Summarization]([https://python.langchain.com/docs/use_cases/summarization](https://python.langchain.com/docs/tutorials/summarization/))
 - [Adobe PDF Services API](https://developer.adobe.com/document-services/docs/overview/pdf-extract-api/)
 - [Pinecone Vector Database](https://www.pinecone.io/)
 - [OpenAI API](https://platform.openai.com/)
